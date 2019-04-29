@@ -6,7 +6,7 @@ This repository contains a file with sentence pairs extracted from the Concepts 
 
 We paired all instances of a target word that had at least 4 substitutes and kept pairs with (1) no overlap in substitutes (DIFF), and (2) an overlap of at least 75% (SAME).
 We treat DIFF as examples of very distinct usages of a word, and SAME as examples where the word is used with the same meaning.
-This is the dataset used in the paper Garí Soler et al., (2019) after balancing for classes.
+This is the dataset used in the paper Garí Soler et al., (2019) after balancing the classes.
 
 If you use this dataset, please cite the paper:
 ```
