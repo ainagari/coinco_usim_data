@@ -24,7 +24,7 @@ under the CC-BY-3.0-US license.
 
 ## Format 
 
-The file is a .csv where every line is a sentence pair.
+In coinco_usim_data.csv each line is a sentence pair:
 - id: <id of sentence 1>-<id of sentence 2>-cnc
 - lemma_pos: lemma and part-of-speech of the target word
 - score: 1 for DIFF, 5 for SAME.
